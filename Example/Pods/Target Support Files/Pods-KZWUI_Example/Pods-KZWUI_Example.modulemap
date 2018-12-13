@@ -1,0 +1,6 @@
+framework module Pods_KZWUI_Example {
+  umbrella header "Pods-KZWUI_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
