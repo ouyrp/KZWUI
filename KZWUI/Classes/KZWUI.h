@@ -25,5 +25,8 @@
 #import "KZWWebViewController.h"
 #import "UICountingLabel.h"
 #import "WKCookieSyncManager.h"
+#import "KZWToast.h"
+#import "KZWDebugModeViewController.h"
+#import "KZWDebugViewController.h"
 
 #endif /* KZWUI_h */

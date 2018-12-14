@@ -11,10 +11,13 @@
 #endif
 
 #import "KZWUI.h"
+#import "BKJFToast.h"
 #import "KZWBaseTextField.h"
 #import "KZWBaseTextView.h"
 #import "KZWBdgeButton.h"
 #import "KZWBdgeImage.h"
+#import "KZWDebugModeViewController.h"
+#import "KZWDebugViewController.h"
 #import "KZWDSJavaScripInterface.h"
 #import "KZWHUD.h"
 #import "KZWItemViewControl.h"

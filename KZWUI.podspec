@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KZWUI'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of KZWUI.'
 
 # This description is used to generate tags and improve search results.
@@ -37,7 +37,7 @@ TODO: Add long description of the pod here.
       ss.resource_bundles = {
           'KZWUI' => 'KZWUI/Assets/*.xcassets'
       }
-      ss.frameworks = 'UIKit', 'Security','MapKit' , 'WebKit' , 'AudioToolbox'
+      ss.frameworks = 'UIKit', 'Security','MapKit' , 'WebKit', 'AudioToolbox'
       ss.dependency 'KZWUtils'
       ss.dependency 'Masonry'
       ss.dependency 'AFNetworking'
