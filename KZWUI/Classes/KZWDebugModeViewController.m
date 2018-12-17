@@ -8,7 +8,7 @@
 
 #import "KZWDebugModeViewController.h"
 #import <KZWUtils/KZWUtils.h>
-#import "WKCookieSyncManager.h"
+#import <WebKit/WebKit.h>
 #import "KZWToast.h"
 
 @interface KZWDebugModeViewController ()<UITableViewDelegate, UITableViewDataSource>
