@@ -1,6 +1,5 @@
 //
 //  UITabBarItem+WebCache.h
-//  米庄理财
 //
 //  Created by aicai on 15/7/24.
 //  Copyright (c) 2015年 aicai. All rights reserved.
